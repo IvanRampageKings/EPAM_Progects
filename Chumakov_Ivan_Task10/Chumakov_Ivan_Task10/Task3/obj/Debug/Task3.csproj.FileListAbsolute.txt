@@ -1,0 +1,11 @@
+C:\Users\Иван\Downloads\Chumakov_Ivan_Task10 (1)\Chumakov_Ivan_Task10\Task3\bin\Debug\Task3.exe.config
+C:\Users\Иван\Downloads\Chumakov_Ivan_Task10 (1)\Chumakov_Ivan_Task10\Task3\bin\Debug\Task3.exe
+C:\Users\Иван\Downloads\Chumakov_Ivan_Task10 (1)\Chumakov_Ivan_Task10\Task3\bin\Debug\Task3.pdb
+C:\Users\Иван\Downloads\Chumakov_Ivan_Task10 (1)\Chumakov_Ivan_Task10\Task3\obj\Debug\Task3.csprojResolveAssemblyReference.cache
+C:\Users\Иван\Downloads\Chumakov_Ivan_Task10 (1)\Chumakov_Ivan_Task10\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\Users\Иван\Downloads\Chumakov_Ivan_Task10 (1)\Chumakov_Ivan_Task10\Task3\obj\Debug\Task3.exe
+C:\Users\Иван\Downloads\Chumakov_Ivan_Task10 (1)\Chumakov_Ivan_Task10\Task3\obj\Debug\Task3.pdb
+C:\Users\Иван\Downloads\Chumakov_Ivan_Task10 (1)\Chumakov_Ivan_Task10\Task3\bin\Debug\Task1.exe
+C:\Users\Иван\Downloads\Chumakov_Ivan_Task10 (1)\Chumakov_Ivan_Task10\Task3\bin\Debug\Task1.pdb
+C:\Users\Иван\Downloads\Chumakov_Ivan_Task10 (1)\Chumakov_Ivan_Task10\Task3\bin\Debug\Task1.exe.config
+C:\Users\Иван\Downloads\Chumakov_Ivan_Task10 (1)\Chumakov_Ivan_Task10\Task3\obj\Debug\Task3.csproj.CopyComplete

@@ -1,0 +1,40 @@
+C:\Users\Иван\Documents\Visual Studio 2017\Projects\Chumakov_Ivan_Task10\Task2\bin\Debug\Task2.exe.config
+C:\Users\Иван\Documents\Visual Studio 2017\Projects\Chumakov_Ivan_Task10\Task2\bin\Debug\Task2.exe
+C:\Users\Иван\Documents\Visual Studio 2017\Projects\Chumakov_Ivan_Task10\Task2\bin\Debug\Task2.pdb
+C:\Users\Иван\Documents\Visual Studio 2017\Projects\Chumakov_Ivan_Task10\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache
+C:\Users\Иван\Documents\Visual Studio 2017\Projects\Chumakov_Ivan_Task10\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Users\Иван\Documents\Visual Studio 2017\Projects\Chumakov_Ivan_Task10\Task2\obj\Debug\Task2.exe
+C:\Users\Иван\Documents\Visual Studio 2017\Projects\Chumakov_Ivan_Task10\Task2\obj\Debug\Task2.pdb
+C:\Users\ep_student\Downloads\Chumakov_Ivan_Task10\Chumakov_Ivan_Task10\Task2\bin\Debug\Task2.exe.config
+C:\Users\ep_student\Downloads\Chumakov_Ivan_Task10\Chumakov_Ivan_Task10\Task2\obj\Debug\Task2.exe
+C:\Users\ep_student\Downloads\Chumakov_Ivan_Task10\Chumakov_Ivan_Task10\Task2\obj\Debug\Task2.pdb
+C:\Users\ep_student\Downloads\Chumakov_Ivan_Task10\Chumakov_Ivan_Task10\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache
+C:\Users\ep_student\Downloads\Chumakov_Ivan_Task10\Chumakov_Ivan_Task10\Task2\bin\Debug\Task2.exe
+C:\Users\ep_student\Downloads\Chumakov_Ivan_Task10\Chumakov_Ivan_Task10\Task2\bin\Debug\Task2.pdb
+C:\Users\Иван\Downloads\Chumakov_Ivan_Task10rrr\Chumakov_Ivan_Task10rrr\Chumakov_Ivan_Task10\Task2\bin\Debug\Task2.exe.config
+C:\Users\Иван\Downloads\Chumakov_Ivan_Task10rrr\Chumakov_Ivan_Task10rrr\Chumakov_Ivan_Task10\Task2\bin\Debug\Task2.exe
+C:\Users\Иван\Downloads\Chumakov_Ivan_Task10rrr\Chumakov_Ivan_Task10rrr\Chumakov_Ivan_Task10\Task2\bin\Debug\Task2.pdb
+C:\Users\Иван\Downloads\Chumakov_Ivan_Task10rrr\Chumakov_Ivan_Task10rrr\Chumakov_Ivan_Task10\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache
+C:\Users\Иван\Downloads\Chumakov_Ivan_Task10rrr\Chumakov_Ivan_Task10rrr\Chumakov_Ivan_Task10\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Users\Иван\Downloads\Chumakov_Ivan_Task10rrr\Chumakov_Ivan_Task10rrr\Chumakov_Ivan_Task10\Task2\obj\Debug\Task2.exe
+C:\Users\Иван\Downloads\Chumakov_Ivan_Task10rrr\Chumakov_Ivan_Task10rrr\Chumakov_Ivan_Task10\Task2\obj\Debug\Task2.pdb
+C:\Users\Иван\Downloads\Chumakov_Ivan_Task10\Chumakov_Ivan_Task10\Chumakov_Ivan_Task10\Chumakov_Ivan_Task10\Task2\bin\Debug\Task2.exe.config
+C:\Users\Иван\Downloads\Chumakov_Ivan_Task10\Chumakov_Ivan_Task10\Chumakov_Ivan_Task10\Chumakov_Ivan_Task10\Task2\bin\Debug\Task2.exe
+C:\Users\Иван\Downloads\Chumakov_Ivan_Task10\Chumakov_Ivan_Task10\Chumakov_Ivan_Task10\Chumakov_Ivan_Task10\Task2\bin\Debug\Task2.pdb
+C:\Users\Иван\Downloads\Chumakov_Ivan_Task10\Chumakov_Ivan_Task10\Chumakov_Ivan_Task10\Chumakov_Ivan_Task10\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache
+C:\Users\Иван\Downloads\Chumakov_Ivan_Task10\Chumakov_Ivan_Task10\Chumakov_Ivan_Task10\Chumakov_Ivan_Task10\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Users\Иван\Downloads\Chumakov_Ivan_Task10\Chumakov_Ivan_Task10\Chumakov_Ivan_Task10\Chumakov_Ivan_Task10\Task2\obj\Debug\Task2.exe
+C:\Users\Иван\Downloads\Chumakov_Ivan_Task10\Chumakov_Ivan_Task10\Chumakov_Ivan_Task10\Chumakov_Ivan_Task10\Task2\obj\Debug\Task2.pdb
+C:\Users\ep_student\Downloads\Chumakov_Ivan_Task10 (4)\Chumakov_Ivan_Task10\Task2\bin\Debug\Task2.exe.config
+C:\Users\ep_student\Downloads\Chumakov_Ivan_Task10 (4)\Chumakov_Ivan_Task10\Task2\obj\Debug\Task2.exe
+C:\Users\ep_student\Downloads\Chumakov_Ivan_Task10 (4)\Chumakov_Ivan_Task10\Task2\obj\Debug\Task2.pdb
+C:\Users\ep_student\Downloads\Chumakov_Ivan_Task10 (4)\Chumakov_Ivan_Task10\Task2\bin\Debug\Task2.exe
+C:\Users\ep_student\Downloads\Chumakov_Ivan_Task10 (4)\Chumakov_Ivan_Task10\Task2\bin\Debug\Task2.pdb
+C:\Users\ep_student\Downloads\Chumakov_Ivan_Task10 (4)\Chumakov_Ivan_Task10\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache
+C:\Users\Иван\Downloads\Chumakov_Ivan_Task10 (1)\Chumakov_Ivan_Task10\Task2\bin\Debug\Task2.exe.config
+C:\Users\Иван\Downloads\Chumakov_Ivan_Task10 (1)\Chumakov_Ivan_Task10\Task2\bin\Debug\Task2.exe
+C:\Users\Иван\Downloads\Chumakov_Ivan_Task10 (1)\Chumakov_Ivan_Task10\Task2\bin\Debug\Task2.pdb
+C:\Users\Иван\Downloads\Chumakov_Ivan_Task10 (1)\Chumakov_Ivan_Task10\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache
+C:\Users\Иван\Downloads\Chumakov_Ivan_Task10 (1)\Chumakov_Ivan_Task10\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Users\Иван\Downloads\Chumakov_Ivan_Task10 (1)\Chumakov_Ivan_Task10\Task2\obj\Debug\Task2.exe
+C:\Users\Иван\Downloads\Chumakov_Ivan_Task10 (1)\Chumakov_Ivan_Task10\Task2\obj\Debug\Task2.pdb
